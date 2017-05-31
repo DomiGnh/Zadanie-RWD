@@ -1,0 +1,28 @@
+   *{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+span{
+    
+    font-size: 1.5em;
+}
+
+h2
+{
+    margin: 0;
+}
+#photo{
+    
+    background-image:url(zadanie-domowe-rwd-materialy/obrazy/man-1.jpg);
+    background-position: center;
+    background-size: cover;
+    top:0px;
+    height:100vh;
+    position: relative;
+    color:#fff;
+    text-transform: uppercase;
+}
